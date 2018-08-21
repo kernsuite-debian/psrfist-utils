@@ -1,3 +1,10 @@
+psrfits-utils (0.0+git20170120.1fbf51b-1) bionic; urgency=medium
+
+  [ Gijs Molenaar ]
+  * New upstream version 0.0+git20170120.1fbf51b
+
+ -- KERN packaging <packaging@kernsuite.info>  Tue, 21 Aug 2018 14:54:15 +0200
+
 psrfits-utils (0-1) bionic; urgency=medium
 
   [ KERN packaging ]
