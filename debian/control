@@ -1,0 +1,15 @@
+Source: psrfits-utils
+Section: science
+Priority: extra
+Maintainer: KERN packaging <packaging@kernsuite.info>
+Build-Depends:
+ debhelper (>=9),
+ dh-autoreconf
+Standards-Version: 3.9.8
+Homepage: https://github.com/demorest/psrfits_utils
+
+Package: psrfits-utils
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: library for working with search- and fold-mode PSRFITS pulsar data

@@ -1,0 +1,10 @@
+.debhelper/
+*.debhelper
+*.substvars
+*.log
+tmp/
+files
+autoreconf.after
+autoreconf.before
+psrfits-utils/
+

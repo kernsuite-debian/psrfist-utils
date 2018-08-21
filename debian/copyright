@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: psrfits_utils
+Source: https://github.com/demorest/psrfits_utils
+
+Files:     debian/*
+Copyright: 2018 Gijs Molenaar <gijs@pythonic.nl>
+License:   MIT
