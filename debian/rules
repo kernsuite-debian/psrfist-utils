@@ -3,6 +3,7 @@
 %:
 	dh $@  --parallel --with autoreconf
 
+override_dh_auto_clean:
 
 override_dh_auto_reconf:
 	autoreconf --install --force
