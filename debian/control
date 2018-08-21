@@ -4,7 +4,8 @@ Priority: extra
 Maintainer: KERN packaging <packaging@kernsuite.info>
 Build-Depends:
  debhelper (>=9),
- dh-autoreconf
+ dh-autoreconf,
+ libcfitsio-dev
 Standards-Version: 3.9.8
 Homepage: https://github.com/demorest/psrfits_utils
 
