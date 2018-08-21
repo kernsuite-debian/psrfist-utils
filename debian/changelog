@@ -1,3 +1,10 @@
+psrfits-utils (0.0+git20170120.1fbf51b-2) bionic; urgency=medium
+
+  [ Gijs Molenaar ]
+  * disable format hardening
+
+ -- KERN packaging <packaging@kernsuite.info>  Tue, 21 Aug 2018 15:39:55 +0200
+
 psrfits-utils (0.0+git20170120.1fbf51b-1) bionic; urgency=medium
 
   [ Gijs Molenaar ]
